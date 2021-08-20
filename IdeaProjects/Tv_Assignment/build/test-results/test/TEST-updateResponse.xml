@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="updateResponse" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-08-20T05:30:38" hostname="Shashwats-MacBook-Pro.local" time="2.861">
+  <properties/>
+  <testcase name="updateJob" classname="updateResponse" time="2.861"/>
+  <system-out><![CDATA[zion resident
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
